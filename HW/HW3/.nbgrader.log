@@ -1,0 +1,22 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/srihariveeraraaghavan/CSE_255/CSE255-DSE230-2018/HW/HW3
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8891/?token=1a87c0bac789180e3077f527f32dfea55aabb7464f9ed02a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8891/?token=1a87c0bac789180e3077f527f32dfea55aabb7464f9ed02a
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook ComputeStatistics.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 44d8798e-d490-40b0-a367-5896c607944e
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180422203521 (::1) 15.07ms referer=http://localhost:8891/notebooks/ComputeStatistics.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44d8798e-d490-40b0-a367-5896c607944e
+[NotebookApp | INFO] Starting buffering for 44d8798e-d490-40b0-a367-5896c607944e:f300df401d934c4b8a6099309b9f867b
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 44d8798e-d490-40b0-a367-5896c607944e
